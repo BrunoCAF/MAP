@@ -1,6 +1,6 @@
 # :fr: Mathématiques Appliquées
 
-Ce référentiel rassemble les matériaux et morceaux de code produits pour les discipline du departement de MAP - Mathématiques Appliquées de l'École Polytechnique. 
+Ce référentiel rassemble les matériaux et morceaux de code produits pour les disciplines du departement de MAP - Mathématiques Appliquées de l'École Polytechnique. 
 
 J'ai déjà fait des cours de Probabilité (MAP361) et Statistiques (MAP433). 
 
